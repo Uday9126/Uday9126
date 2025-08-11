@@ -2,7 +2,7 @@
 👋 Hi, I'm M Uday Kiran Reddy, an aspiring Software Engineer with a strong interest in Full-Stack Development using the MERN stack. I hold a Bachelor's in Computer Science and Engineering and have over a year of experience building applications. I'm passionate about learning new technologies and creating efficient, scalable solutions.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushsr8/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dhanushsaireddy8) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushsr8/)
 
 
 # 💻 Tech Stack:
@@ -21,6 +21,8 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Uday9126&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Uday9126&limit=5&theme=dark&combine_all_yearly_contributions=true)
