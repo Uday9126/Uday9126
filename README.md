@@ -2,7 +2,7 @@
 👋 Hi, I'm M Uday Kiran Reddy, an aspiring Software Engineer with a strong interest in Full-Stack Development using the MERN stack. I hold a Bachelor's in Computer Science and Engineering and have over a year of experience building applications. I'm passionate about learning new technologies and creating efficient, scalable solutions.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushsr8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-kiran-reddy-muchukota-804140274/)
 
 
 # 💻 Tech Stack:
