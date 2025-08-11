@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm M Uday Kiran Reddy, an aspiring Software Engineer with a strong interest in Full-Stack Development using the MERN stack. I hold a Bachelor's in Computer Science and Engineering and have over a year of experience building applications. I'm passionate about learning new technologies and creating efficient, scalable solutions.</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h1 align="center">Hi 👋, I'm M Uday Kiran Reddy</h1>
+<h3 align="center">I an aspiring Software Engineer with a strong interest in Full-Stack Development using the MERN stack. I hold a Bachelor's in Computer Science and Engineering and have over a year of experience building applications. I'm passionate about learning new technologies and creating efficient, scalable solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uday9126&label=Profile%20views&color=0e75b6&style=flat" alt="uday9126" /> </p>
 
