@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23264
-Fork on GitHub
-7888
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm M Uday Kiran Reddy, an aspiring Software Engineer with a strong interest in Full-Stack Development using the MERN stack. I hold a Bachelor's in Computer Science and Engineering and have over a year of experience building applications. I'm passionate about learning new technologies and creating efficient, scalable solutions.</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
@@ -32,28 +16,3 @@ preview
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uday9126&show_icons=true&locale=en&layout=compact" alt="uday9126" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uday9126&show_icons=true&locale=en" alt="uday9126" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
